@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juniorsilva88&show_icons=true&theme=merko&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Juniorsilva88&theme=merko&hide_progress&repo=convoychat" />
+  <img align="center" margin-right="" height="240em" width="240em"src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Juniorsilva88&theme=merko&hide_progress&repo=convoychat" />
   </a>
   
 ##
@@ -20,7 +20,7 @@
 </div>
   
  ##
-<div>
+<div style="display: align-block"><br>
     <a href="https://www.linkedin.com/in/junior-alexandre-da-silva-3b03b5163/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.instagram.com/junioralexandre88/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a href="https://twitter.com/JuniorASilva88"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
