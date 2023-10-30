@@ -22,6 +22,7 @@
 </div>
   
  ##
+ ### Essas são algumas das minhas redes Sociais, me segue lá.
 <div style="display: align-block"><br>
     <a href="https://www.linkedin.com/in/junior-alexandre-da-silva-3b03b5163/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.instagram.com/junioralexandre88/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
