@@ -1,9 +1,10 @@
-### Hello 👋, I'm Junior Silva   
-- 🌱 I'm currently studying web development 💻....
-- 👨‍🎓 Graduated in Systems Analysis and Development (Technologist) 
-- 👩‍💻 Postgraduate in Software Engineering - MBA  
-- 😄 Pronouns: He, Him...
-- ⚡ Fun fact about me: I'm passionate about good music, I'm a Protestant Christian 🛐, I enjoy marathoning Adventure, War, Medieval and Marvel and DC series and films... 
+### Hello 👋, I'm Junior Alexandre   
+- 🌱 I'm currently studying web development 💻  
+- 👨‍🎓 Graduated in Systems Analysis and Development (Technologist)  
+- 🎓 Postgraduate in Software Engineering - MBA  
+- 🎖️ Active serviceman in the Brazilian Army 🇧🇷  
+- 😄 Pronouns: He, Him  
+- ⚡ Fun fact about me: I'm passionate about good music 🎶, I'm a Protestant Christian 🛐, and I enjoy marathoning Adventure 🗺️, War ⚔️, Medieval 🏰, and Marvel & DC 🎬 series and films  etc...
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juniorsilva88&show_icons=true&theme=merko&repo=github-readme-stats" />
@@ -22,10 +23,8 @@
 </div>
   
  ##
- ### Essas são algumas das minhas Redes Sociais.
+ ### Essas são algumas das minhas Redes Sociais e Contato.
  ### Me segue lá 👍.
 <div style="display: align-block"><br>
-    <a href="https://www.linkedin.com/in/junior-alexandre-da-silva-3b03b5163/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.instagram.com/junioralexandre88/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="https://twitter.com/JuniorASilva88"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="https://linktr.ee/juniorsilva88"><img src="https://img.shields.io/badge/Linktree-1DA1F2?style=for-the-badge&logo=linktree&logoColor=white" /><a/>
 </div>
