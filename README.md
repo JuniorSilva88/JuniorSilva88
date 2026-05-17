@@ -1,17 +1,29 @@
-### Hello 👋, I'm Junior Alexandre   
-- 🌱 I'm currently studying web development 💻  
-- 👨‍🎓 Graduated in Systems Analysis and Development (Technologist)  
-- 🎓 Postgraduate in Software Engineering - MBA  
-- 🎖️ Active serviceman in the Brazilian Army 🇧🇷  
-- 😄 Pronouns: He, Him  
-- ⚡ Fun fact about me: I'm passionate about good music 🎶, I'm a Protestant Christian 🛐, and I enjoy marathoning Adventure 🗺️, War ⚔️, Medieval 🏰, and Marvel & DC 🎬 series and films  etc...
+### Hello 👋, I'm Junior Alexandre
+
+- 🌱 I'm currently studying web development 💻
+- 👨‍🎓 Graduated in Systems Analysis and Development (Technologist)
+- 🎓 Postgraduate in Software Engineering - MBA
+- 🎖️ Active serviceman in the Brazilian Army 🇧🇷
+- 😄 Pronouns: He, Him
+- ⚡ Fun fact about me: I'm passionate about good music 🎶, I'm a Protestant Christian 🛐, and I enjoy marathoning Adventure 🗺️, War ⚔️, Medieval 🏰, and Marvel & DC 🎬 series and films etc...
+
+<div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juniorsilva88&show_icons=true&theme=merko&repo=github-readme-stats" />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Juniorsilva88&show_icons=true&theme=merko"
+  />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" margin-right="" height="240em" width="240em"src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Juniorsilva88&theme=merko&hide_progress&repo=convoychat" />
-  </a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juniorsilva88&layout=compact&theme=merko"
+  />
+</a>
+
+</div>
   
 ##
 ### Essas são algumas das linguagens, que atualamente desenvolvo meus Projetos/Estudos.
