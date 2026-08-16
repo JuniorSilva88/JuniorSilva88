@@ -3,6 +3,7 @@
 - 🌱 I'm currently studying web development 💻
 - 👨‍🎓 Graduated in Systems Analysis and Development (Technologist)
 - 🎓 Postgraduate in Software Engineering - MBA
+- 🎓 Postgraduate Specialization in Computer Network Structure and Management
 - 🎖️ Active serviceman in the Brazilian Army 🇧🇷
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact about me: I'm passionate about good music 🎶, I'm a Protestant Christian 🛐, and I enjoy marathoning Adventure 🗺️, War ⚔️, Medieval 🏰, and Marvel & DC 🎬 series and films etc...
