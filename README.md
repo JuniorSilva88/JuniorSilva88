@@ -10,17 +10,17 @@
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/stats-organization/github-stats-extended">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Juniorsilva88&show_icons=true&theme=merko"
+    src="https://github-stats-extended.vercel.app/api?username=Juniorsilva88&show_icons=true&theme=merko"
   />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/stats-organization/github-stats-extended">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juniorsilva88&layout=compact&theme=merko"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Juniorsilva88&layout=compact&theme=merko"
   />
 </a>
 
